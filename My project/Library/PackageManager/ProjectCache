@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637780600593807935
-    m_Hash: 173228938
+      ticks: 637784517072326169
+    m_Hash: 2705285191
   m_LockFileStatus:
     m_FilePath: D:/RobotFylke/Human-Robot-Interaction/My project/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637780600594745431
-    m_Hash: 21331849
+      ticks: 637784517072510830
+    m_Hash: 3907157920
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
